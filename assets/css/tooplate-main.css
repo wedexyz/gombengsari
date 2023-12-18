@@ -427,16 +427,16 @@ nav a::before {
 }
 .slides .slide:nth-child(2) {
   
-  background-image: url(/Pokdarwis/bg\ pro.jpg);
+  background-image: url(Pokdarwis/bg\ pro.jpg);
   background-position: fixed;
 }
 .slides .slide:nth-child(3) {
   
-  background-image: url(/Pokdarwis/bg3.jpg);
+  background-image: url(Pokdarwis/bg3.jpg);
   background-position: fixed;
 }
 .slides .slide:nth-child(4) {
-  background-image: url(/Pokdarwis/bg.jpg);
+  background-image: url(Pokdarwis/bg.jpg);
   background-position: fixed;
 }
 .slides .slide:nth-child(5) {
