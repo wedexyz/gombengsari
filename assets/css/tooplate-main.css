@@ -427,22 +427,16 @@ nav a::before {
 }
 .slides .slide:nth-child(2) {
   
-  background-image: url(Pokdarwis/bg\ pro.jpg);
-  background-position: fixed;
+  
 }
 .slides .slide:nth-child(3) {
   
-  background-image: url(Pokdarwis/bg3.jpg);
-  background-position: fixed;
+  
 }
 .slides .slide:nth-child(4) {
-  background-image: url(Pokdarwis/bg.jpg);
-  background-position: fixed;
-}
+  }
 .slides .slide:nth-child(5) {
-  background-image: url(../images/1.webp);
-  background-position: fixed;
-}
+  }
 
 /* Slide 1 Stlye */
 #slider-wrapper{
